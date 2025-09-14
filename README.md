@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Ihsaan7/Ihsaan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey there! I'm Ihsaan Ullah
 
-Here are some ideas to get you started:
+🎓 Currently pursuing a Bachelor's in Software Engineering  
+💻 Learning Full Stack Development — *Backend is my playground*  
+🎨 Love crafting unique UI styles that stand out  
+📍 Based in Islamabad, Pakistan  
+🧠 Age: 22 and always curious  
+🚀 Passionate about building clean, secure, and scalable web apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Interests
+- Backend: NodeJs, Express.js, MongoDB, JWT, bcrypt  
+- Frontend: EJS, TailwindCSS, React  
+- DevOps: Vercel CLI, Environment Variables, MongoDB Atlas  
+- Tools: GitHub, Linux, 
+
+---
+
+### 🌱 Currently Working On
+- 🔐 Secure login/signup flows with validation  
+- 🌐 Full-stack deployments 
+- 🧪 Exploring pentesting tools on Kali Linux  
+- 🎓 Unlocking global student developer perks  
+
+---
+
+### 📫 Let's Connect
+Feel free to check out my projects or reach out for collaboration!
