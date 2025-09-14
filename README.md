@@ -1,10 +1,6 @@
-## Hi there 👋
-
 ## 👋 Hey there! I'm Ihsaan Ullah
-## Portfolio  
-https://ihsaanu.vercel.app/
+## Portfolio  https://ihsaanu.vercel.app/
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ihsaan7&theme=radical)
 
 🎓 Currently pursuing a Bachelor's in Software Engineering  
 💻 Learning Full Stack Development — *Backend is my playground*  
@@ -13,6 +9,7 @@ https://ihsaanu.vercel.app/
 🧠 Age: 22 and always curious  
 🚀 Passionate about building clean, secure, and scalable web apps  
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Ihsaan7&theme=radical)
 ---
 
 ### 🛠️ Tech Stack & Interests
