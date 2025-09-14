@@ -1,14 +1,10 @@
 ## Hi there 👋
 
 ## 👋 Hey there! I'm Ihsaan Ullah
-## Portfolio
+## Portfolio  
 https://ihsaanu.vercel.app/
 
-![Ihsaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ihsaan7&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=compact&theme=radical)
-![Snake animation](https://github.com/ihsaanullah/Ihsaan7/blob/output/github-contribution-grid-snake.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 🎓 Currently pursuing a Bachelor's in Software Engineering  
 💻 Learning Full Stack Development — *Backend is my playground*  
@@ -23,8 +19,9 @@ https://ihsaanu.vercel.app/
 - Backend: NodeJs, Express.js, MongoDB, JWT, bcrypt  
 - Frontend: EJS, TailwindCSS, React  
 - DevOps: Vercel CLI, Environment Variables, MongoDB Atlas  
-- Tools: GitHub, Linux, 
-
+- Tools: GitHub, Linux,
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 🌱 Currently Working On
@@ -33,6 +30,7 @@ https://ihsaanu.vercel.app/
 - 🧪 Exploring pentesting tools on Kali Linux  
 - 🎓 Unlocking global student developer perks  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=compact&theme=radical)
 ---
 
 ### 📫 Let's Connect
