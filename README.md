@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 ## 👋 Hey there! I'm Ihsaan Ullah
+## Portfolio
 https://ihsaanu.vercel.app/
+
+##![Ihsaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical)
 
 🎓 Currently pursuing a Bachelor's in Software Engineering  
 💻 Learning Full Stack Development — *Backend is my playground*  
