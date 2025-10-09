@@ -66,18 +66,18 @@ const skills = {
 <tr>
 <td width="50%">
 
-#### 🔐 [FullStack_Ecommerce]([https://github.com/Ihsaan7/project-1](https://github.com/Ihsaan7/FullStack_Ecommerce))
-FullStack_Website
-**Tech:** React (18 Routing ), Express, MongoDB , Tailwind  
-⭐ Features: Login/Signup, Password encryption , Secured Auth with JWT , Fetched API's  , Database save , Responsive Design
+#### 🔐 [FullStack_Ecommerce](https://github.com/Ihsaan7/FullStack_Ecommerce)
+FullStack_Website  
+**Tech:** React (18 Routing), Express, MongoDB, Tailwind  
+⭐ Features: Login/Signup, Password encryption, Secured Auth with JWT, Fetched API's, Database save, Responsive Design
 
 </td>
 <td width="50%">
 
 #### 🌐 [Backend_Focused_Ecommerce](https://github.com/Ihsaan7/Mini_Ecomm-w-Backend-)
 Full-stack_Mini-Ecommerce  
-**Tech:** EJS, Express, JWT , MULTER , Mongoose  
-⭐ Features: Protected Routes, REST API , DataBase , Modern Styling/Layout
+**Tech:** EJS, Express, JWT, MULTER, Mongoose  
+⭐ Features: Protected Routes, REST API, DataBase, Modern Styling/Layout
 
 </td>
 </tr>
@@ -85,40 +85,39 @@ Full-stack_Mini-Ecommerce
 <td width="50%">
 
 #### 🎨 [HisaabBook_Backend](https://github.com/Ihsaan7/HisaabBook_Express-Node-MongoDB)
-Backend_focused
-**Tech:** Express , Mongoose , JWT , Cookies/Session , Bcrypt   
-⭐ Features: Password-protected entries - 👥 Shareable ledgers - 🌙 Dark/Light themes - 📱 Responsive design 
+Backend_focused  
+**Tech:** Express, Mongoose, JWT, Cookies/Session, Bcrypt  
+⭐ Features: Password-protected entries - 👥 Shareable ledgers - 🌙 Dark/Light themes - 📱 Responsive design
 
 </td>
 <td width="50%">
 
 #### 🚀 [Mini_SocialApp_Backend](https://github.com/Ihsaan7/Ihsaan7-Mini_SocialApp_Backend)
-Backend_Focused 
-**Tech:** Express.js, MongoDB Atlas , Multer , JWT , Bcrypt
-⭐ Features: 🔐 JWT-secured login – 🔒 Safe image uploads with Multer - 👤 Profile uploads – 📝 Post creation – ❤️ Likes & interactions – ✏️ Post editing – 
+Backend_Focused  
+**Tech:** Express.js, MongoDB Atlas, Multer, JWT, Bcrypt  
+⭐ Features: 🔐 JWT-secured login – 🔒 Safe image uploads with Multer - 👤 Profile uploads – 📝 Post creation – ❤️ Likes & interactions – ✏️ Post editing
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-#### 🚀 [NEXTjS_Anime_StreamingPlatform](https://github.com/Ihsaan7/AnimeBom)
-FullStack_Focused
-**Tech:** NextJs ,   
+#### 🎬 [NEXTjS_Anime_StreamingPlatform](https://github.com/Ihsaan7/AnimeBom)
+FullStack_Focused  
+**Tech:** Next.js  
 ⭐ Features: 🎬 Anime browser – 🔍 Fast search – 📱 Responsive layout – ⚡ Turbo-charged with Next.js 15 – 🎨 Tailwind + Framer Motion UI – 🔐 Supabase login – 🌙 Smooth animations – 📊 Real-time updates
-Let me know if you want to combine this with your previous app’s feature list or tailor it for a README, portfolio, or landing page.
-
 
 </td>
 <td width="50%">
 
-#### 🚀 [UI_Dashboard3_SOFTUI](https://github.com/Ihsaan7/Soft_UI_Dashboard3)
+#### 🎨 [UI_Dashboard3_SOFTUI](https://github.com/Ihsaan7/Soft_UI_Dashboard3)
 FrontEnd_Focused  
-**Tech:** NextJs, Tailwind ,   
-⭐ Features: UI / UX , Styling , Responsive Design , Clean Layout
+**Tech:** Next.js, Tailwind  
+⭐ Features: UI/UX, Styling, Responsive Design, Clean Layout
 
 </td>
 </tr>
 </table>
-
 > 💡 **Check out more on my [Portfolio](https://ihsaanu.vercel.app/)**
 
 ---
