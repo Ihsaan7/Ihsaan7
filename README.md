@@ -19,15 +19,16 @@
 🎨 Love crafting **unique UI styles** that stand out  
 🚀 Currently diving deep into **Backend Architecture** and **Security**
 
-### 💡 Skills & Strengths
+### 💡 Skills
 
-- 💻 Full-stack developer with a strong focus on **backend architecture**, **API design**, and **secure authentication**
-- ⚙️ Experienced in **Node.js**, **Express**, **MongoDB**, and **JWT** with solid understanding of **role-based access control** and **validation chains**
-- 🎨 Proficient in **React**, **Next.js**, and **TailwindCSS** with attention to **responsive design**, **UX principles**, and **interactive effects**
-- 🛠 Skilled in **Git workflows**, **CLI automation**, and **environment management** across platforms like **Vercel**, **Replit**, and **Linux**
-- 🧩 Strong grasp of **fundamentals**, **debugging**, and **real-world problem solving** — building projects people can actually use
-- ✨ Exploring **animation tools** like **GSAP** and soon in **Framer Motion** to enhance frontend polish
+```javascript
+const skills = {
+  frontend: ["React", "Next.js", "Tailwind"],
+  backend: ["Express.js", "JWT", "Bcrypt", "Mongoose"],
+  tools: ["Postman", "VS Code", "Vercel", "GitHub"]
+};
 
+```
 ---
 
 ### 🔥 Current Focus
@@ -42,31 +43,32 @@
 ### 🛠️ Tech Stack
 
 **Backend** ⚙️  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)  
-![bcrypt](https://img.shields.io/badge/bcrypt-000000?style=flat-square&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-000000?style=flat-square&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)  
-![Express Validator](https://img.shields.io/badge/express--validator-000000?style=flat-square&logoColor=white)  
+![Express Validator](https://img.shields.io/badge/express--validator-000000?style=flat-square&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=flat-square&logoColor=black)
 
 **Frontend** 🎨  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![EJS](https://img.shields.io/badge/EJS-3178C6?style=flat-square&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-3178C6?style=flat-square&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 **Tools & Platforms** 🔧  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
-![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ### 📌 Featured Projects
