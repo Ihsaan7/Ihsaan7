@@ -19,45 +19,14 @@
 🎨 Love crafting **unique UI styles** that stand out  
 🚀 Currently diving deep into **Backend Architecture** and **Security**
 
-```javascript
-const skills = {
-  backend: [
-    'Node.js',
-    'Express.js',
-    'MongoDB',
-    'JWT',
-    'bcrypt',
-    'dotenv',
-    'Mongoose',
-    'API versioning',
-    'Role-based access control',
-    'Cart persistence logic',
-    'Express-validator'
-  ],
-  frontend: [
-    'React',
-    'TailwindCSS',
-    'EJS',
-    'React Router',
-    'Custom hooks',
-    'Immutable state management',
-    'Responsive UI design',
-    'Interactive effects'
-  ],
-  tools: [
-    'Git',
-    'GitHub',
-    'Vercel',
-    'Replit',
-    'Linux',
-    'CLI automation',
-    'Environment variable management',
-    'Postman',
-    'VS Code'
-  ],
-  focus: 'Backend Development with scalable architecture and secure APIs'
-};
-```
+### 💡 Skills & Strengths
+
+- 💻 Full-stack developer with a strong focus on **backend architecture**, **API design**, and **secure authentication**
+- ⚙️ Experienced in **Node.js**, **Express**, **MongoDB**, and **JWT** with solid understanding of **role-based access control** and **validation chains**
+- 🎨 Proficient in **React**, **Next.js**, and **TailwindCSS** with attention to **responsive design**, **UX principles**, and **interactive effects**
+- 🛠 Skilled in **Git workflows**, **CLI automation**, and **environment management** across platforms like **Vercel**, **Replit**, and **Linux**
+- 🧩 Strong grasp of **fundamentals**, **debugging**, and **real-world problem solving** — building projects people can actually use
+- ✨ Exploring **animation tools** like **GSAP** and soon in **Framer Motion** to enhance frontend polish
 
 ---
 
