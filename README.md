@@ -4,7 +4,7 @@
 
 **Full Stack Developer** • **Backend Enthusiast** • **UI/UX Explorer**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00C7B7?style=flat-square)](https://ihsaanu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00C7B7?style=flat-square)](https://2025-oct-portfolio.vercel.app/)
 ![Location](https://img.shields.io/badge/📍_Islamabad-Pakistan-05A081?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=Ihsaan7&color=00C7B7&style=flat-square)
 
