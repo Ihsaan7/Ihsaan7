@@ -129,7 +129,6 @@ FrontEnd_Focused
 </td>
 </tr>
 </table>
-> 💡 **Check out more on my [Portfolio](https://ihsaanu.vercel.app/)**
 
 ---
 
@@ -173,7 +172,7 @@ FrontEnd_Focused
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ihsaanu.vercel.app-00C7B7?style=for-the-badge&logo=vercel)](https://ihsaanu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ihsaanu.vercel.app-00C7B7?style=for-the-badge&logo=vercel)](https://2025-oct-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
