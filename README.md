@@ -116,7 +116,7 @@ Backend_Focused
 #### 🎬 [NEXTjS_Anime_StreamingPlatform](https://github.com/Ihsaan7/AnimeBom)
 FullStack_Focused  
 **Tech:** Next.js  
-⭐ Features: 🎬 Anime browser – 🔍 Fast search – 📱 Responsive layout – ⚡ Turbo-charged with Next.js 15 – 🎨 Tailwind + Framer Motion UI – 🔐 Supabase login – 🌙 Smooth animations – 📊 Real-time updates
+⭐ Features: 🎬 Anime browser – 🔍 Fast search – 📱 Responsive layout – ⚡ Turbo-charged with Next.js 15 – 🎨 Tailwind + Framer Motion UI – 🔐 Supabase login – 🌙 Smooth[...] 
 
 </td>
 <td width="50%">
@@ -137,7 +137,7 @@ FrontEnd_Focused
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
 
 </div>
 
@@ -164,7 +164,7 @@ FrontEnd_Focused
 - [ ] Build real-world usable projects that solve actual problems  
 - [ ] Learn animation tools like Framer Motion , Three.JS  
 - [ ] Explore open-source contributions  
-- [ ] Share knowledge through tech blogs or tutorials  
+- [ ] Share knowledge through tech blogs or tutorials
 
 ---
 
