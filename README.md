@@ -137,7 +137,7 @@ FrontEnd_Focused
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&cache=20251030143333" />
 
 </div>
 
