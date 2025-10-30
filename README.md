@@ -135,7 +135,7 @@ FrontEnd_Focused
 ### 📊 GitHub Activity
 <div align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" /></div>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" /></div>
 <div align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" />
 </div>
