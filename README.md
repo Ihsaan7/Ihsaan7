@@ -31,8 +31,8 @@ const skills = {
 
 
 **Backend** ⚙️  
-<samp>
-<p align='center'>
+<samp align='center'>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
@@ -42,7 +42,7 @@ const skills = {
 ![Express Validator](https://img.shields.io/badge/express--validator-000000?style=flat-square&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=flat-square&logoColor=black)
 </samp>
-</p>
+
 
 **Frontend** 🎨  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
