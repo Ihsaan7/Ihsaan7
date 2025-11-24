@@ -12,12 +12,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-🎓 Bachelor's in Software Engineering | 22 y/o | Always Curious  
-💻 Passionate about building **clean, secure, and scalable web applications**  
-🎨 Love crafting **unique UI styles** that stand out  
-🚀 Currently diving deep into **Backend Architecture** and **Security**
 
 ### 💡 Skills
 
@@ -31,18 +25,14 @@ const skills = {
 ```
 ---
 
-### 🔥 Current Focus
 
-- 🔐 Building secure authentication systems with JWT & bcrypt
-- 🌐 Full-stack application deployments on Vercel
-- 🧪 Exploring pentesting tools on Kali Linux
-- 📚 Learning advanced system design patterns
 
----
+<h2><samp>🛠️ Tech Stack </samp></h2>
 
-### 🛠️ Tech Stack
 
 **Backend** ⚙️  
+<samp>
+<p align='center'>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
@@ -51,6 +41,8 @@ const skills = {
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)  
 ![Express Validator](https://img.shields.io/badge/express--validator-000000?style=flat-square&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=flat-square&logoColor=black)
+</samp>
+</p>
 
 **Frontend** 🎨  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
