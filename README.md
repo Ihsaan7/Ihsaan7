@@ -81,18 +81,6 @@ const skills = {
 
 ---
 
-### 🎯 2025 Goals
-
-- [ ] Deploy 5 full-stack applications  
-- [ ] Master backend development (security, scalability, clean architecture)  
-- [ ] Become proficient in Next.js  
-- [ ] Build real-world usable projects that solve actual problems  
-- [ ] Learn animation tools like Framer Motion , Three.JS  
-- [ ] Explore open-source contributions  
-- [ ] Share knowledge through tech blogs or tutorials
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
