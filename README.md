@@ -1,75 +1,87 @@
+<br/>
+
+## ⚡ Tech Arsenal
+
 <div align="center">
 
-<!-- Custom, self-contained hero banner (no external API calls) -->
-<img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/hero-banner.svg" alt="Hero Banner" width="100%"/>
+### Backend Core
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 
-<br/>
+### Frontend Craft
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&theme=dark" />
 
-<a href="https://[YOUR_PORTFOLIO_URL]">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+%26+Next.js+systems;Designing+resilient+backend+architectures;Engineering+for+performance+and+clarity;Turning+problems+into+production-ready+solutions" alt="Typing Animation" />
-</a>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,replit&theme=dark" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- Bulletproof, self-hosted core metrics -->
-<p>
-  <a href="https://[YOUR_PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-Live-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1120&labelColor=0B1120" alt="Portfolio Badge"/>
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Contact-Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1120&labelColor=0B1120" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0B1120&labelColor=0B1120" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Available%20Remotely-14B8A6?style=for-the-badge&labelColor=0B1120" alt="Location Badge"/>
-</p>
-
-<!-- Self-hosted profile views (guaranteed uptime, runs on your own infra) -->
-<p>
-  <img src="https://hits.sh/github.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME].svg?view=today-total&style=for-the-badge&label=Profile%20Views&color=22D3EE&labelColor=0B1120" alt="Profile Views"/>
-</p>
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=00C7B7)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Hashing-0D1117?style=flat-square&logoColor=00C7B7)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM-880000?style=flat-square)
+![Express Validator](https://img.shields.io/badge/Express--Validator-Sanitized-0D1117?style=flat-square&logoColor=00C7B7)
+![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-Templating-3178C6?style=flat-square)
 
 </div>
 
 <br/>
 
-## About Me
-
-
-const developer: Developer = {
-  name: "[YOUR_NAME]",
-  role: "Full Stack Engineer",
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "NestJS"],
-    database: ["MongoDB", "Mongoose", "PostgreSQL"],
-    auth: ["JWT", "Bcrypt", "OAuth 2.0"],
-  },
-  focus: ["Backend Architecture", "System Design", "Scalable REST/GraphQL APIs"],
-  currentlyBuilding: "High-throughput, production-ready MERN & Next.js platforms",
-  motto: "First, solve the problem. Then, write resilient code.",
-  askMeAbout: [
-    "Designing scalable backend systems",
-    "Clean architecture & modular design",
-    "Authentication & authorization flows",
-    "Performance optimization at scale",
-  ],
-  funFact: "My most focused builds ship after midnight.",
-};
-<br/>
-Core Competencies
-<table> <tr> <td align="center" width="50%"> <h3>Backend Architecture & System Design</h3> <p>Designing loosely coupled services, modular monoliths, and scalable RESTful APIs with a focus on maintainability, security, and fault tolerance.</p> </td> <td align="center" width="50%"> <h3>Full Stack Engineering (MERN + Next.js)</h3> <p>End-to-end product development with React/Next.js on the frontend and Node.js/Express/MongoDB on the backend, optimized for SEO, performance, and DX.</p> </td> </tr> <tr> <td align="center" width="50%"> <h3>Authentication, Security & Data Modeling</h3> <p>Battle-tested auth flows (JWT, RBAC), secure password handling with Bcrypt, and efficient schema design with Mongoose & relational databases.</p> </td> <td align="center" width="50%"> <h3>Production-Ready Engineering</h3> <p>Type-safe codebases, clean error handling, logging strategies, and deployment-ready architectures built to scale with confidence.</p> </td> </tr> </table> <br/>
-GitHub Analytics (Self-Hosted & Zero-Breakage)
-These visualizations are generated entirely by GitHub Actions and committed to your repository. They update automatically on a schedule and will never display broken image icons.
-
-<div align="center"> <a href="https://github.com/[YOUR_GITHUB_USERNAME]"> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/stats.svg" alt="GitHub Stats" width="49%"/> </a> <a href="https://github.com/[YOUR_GITHUB_USERNAME]"> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/top-langs.svg" alt="Top Languages" width="49%"/> </a> <br/> <br/> <a href="https://github.com/[YOUR_GITHUB_USERNAME]"> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/streak.svg" alt="GitHub Streak" width="70%" /> </a> <br/> <br/> <!-- Contribution Snake - generated and committed by Actions --> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/snake.svg" alt="Contribution Snake Animation" width="100%"/> </div> <br/>
+## 📊 GitHub Analytics
 
 <div align="center">
-Data table: Project, Tech Stack, Description, Live Demo, Source
-Project	Tech Stack	Description	Live Demo	Source
-Project One	Next.js, TypeScript, TailwindCSS, Node.js	A production-grade, full-stack platform with scalable API architecture and optimized Core Web Vitals.	Live	GitHub
-Project Two	MERN, JWT, Bcrypt, MongoDB	Secure, role-based backend system with RESTful endpoints, designed for high data integrity.	Live	GitHub
-Project Three	System Design, Redis, PostgreSQL	Backend service demonstrating caching strategies, database indexing, and horizontal scalability patterns.	Live	GitHub
-</div> <br/> <div align="center"> <!-- Custom, self-contained footer (no external API calls) --> <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/footer-banner.svg" alt="Footer Banner" width="100%"/> <p><b>Thanks for visiting! Let's build something scalable together.</b></p> </div> ```
+
+<!-- Customized seamlessly to blend into GitHub dark mode -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakNum=C9D1D9&currStreakLabel=00C7B7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=donut&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Trophies with transparent background to match -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00C7B7" width="90%" alt="Trophies" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Pulse
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihsaan7&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&area_color=00C7B7" width="95%" alt="Activity Graph" />
+
+<!-- Fixed Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-snake-dark.svg" width="95%">
+</picture>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://2025-oct-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
+
+<br/><br/>
+
+**💬 Open to collaborations, freelance work & interesting projects!**
+
+<br/>
+
+<!-- Random dev quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
