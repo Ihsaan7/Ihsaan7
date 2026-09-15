@@ -1,3 +1,14 @@
+🧬 About Metypescript
+const ihsaan: Developer = {
+role: "Full Stack Developer",
+focus: ["Backend Architecture", "REST APIs", "UI/UX"],
+currentlyBuilding: "Production-ready MERN applications",
+motto: "First, solve the problem. Then, write the code.",
+askMeAbout: ["Express.js", "Auth flows (JWT + Bcrypt)", "Next.js", "MongoDB"],
+funFact: "My commits peak after midnight 🌙"
+};
+
+
 <br/>
 
 ## ⚡ Tech Arsenal
@@ -30,7 +41,6 @@
 
 <div align="center">
 
-<!-- Customized seamlessly to blend into GitHub dark mode -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakNum=C9D1D9&currStreakLabel=00C7B7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 
@@ -40,7 +50,6 @@
 
 <br/><br/>
 
-<!-- Trophies with transparent background to match -->
 <img src="https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00C7B7" width="90%" alt="Trophies" />
 
 </div>
@@ -53,7 +62,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihsaan7&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&area_color=00C7B7" width="95%" alt="Activity Graph" />
 
-<!-- Fixed Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-snake.svg">
@@ -78,10 +86,8 @@
 
 <br/>
 
-<!-- Random dev quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
