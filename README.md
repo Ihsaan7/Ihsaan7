@@ -1,115 +1,74 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=200&section=header&text=Ihsaan%20Ullah&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descSize=18&descAlignY=55" width="100%"/>
+# [YOUR_NAME]
+**Full-Stack Developer | MERN | Next.js**
 
-<!-- Typing animation -->
-<a href="https://2025-oct-portfolio.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Node.js;Crafting+sleek+UIs+with+React+%26+Next.js;JWT+%7C+Bcrypt+%7C+Mongoose+%7C+Express;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00C7B7?style=for-the-badge&labelColor=0D1117)](https://2025-oct-portfolio.vercel.app/)
-![Location](https://img.shields.io/badge/📍_Islamabad,_Pakistan-05A081?style=for-the-badge&labelColor=0D1117)
-![Views](https://komarev.com/ghpvc/?username=Ihsaan7&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://[YOUR_PORTFOLIO_URL]/)
+[![Email](https://img.shields.io/badge/Email-Contact-05A081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN]/)
 
 </div>
 
-<br/>
+---
 
-## 🧬 About Me
+## About Me
 
-```typescript
-const ihsaan: Developer = {
-  role: "Full Stack Developer",
-  focus: ["Backend Architecture", "REST APIs", "UI/UX"],
-  currentlyBuilding: "Production-ready MERN applications",
-  motto: "First, solve the problem. Then, write the code.",
-  askMeAbout: ["Express.js", "Auth flows (JWT + Bcrypt)", "Next.js", "MongoDB"],
-  funFact: "My commits peak after midnight 🌙"
-};
-```
+I'm a Full-Stack Developer focused on building scalable, production-ready applications with the MERN stack and Next.js. I thrive on creating clean, performant backends and intuitive user experiences that solve real problems.
 
-<br/>
+- **Currently building:** Production-ready MERN & Next.js applications
+- **Focus:** Backend architecture, RESTful APIs, and seamless UI/UX
+- **Core stack:** TypeScript, Next.js, React, Node.js, Express, MongoDB
+- **Tooling:** JWT, bcrypt, TailwindCSS, Prisma, Git, and Vercel
+- **Fun fact:** My best commits tend to happen after midnight!
 
-## ⚡ Tech Arsenal
+---
+
+## Tech Stack
 
 <div align="center">
 
-### Backend Core
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Frontend Craft
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css&theme=dark" />
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,replit&theme=dark" />
-
-<br/>
-
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=00C7B7)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-Hashing-0D1117?style=flat-square&logoColor=00C7B7)
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM-880000?style=flat-square)
-![Express Validator](https://img.shields.io/badge/Express--Validator-Sanitized-0D1117?style=flat-square&logoColor=00C7B7)
-![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-Templating-3178C6?style=flat-square)
+### Auth & Tools
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-<div align="center">
+Here are a few of my recent projects that best showcase my skills: 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&ring_color=00C7B7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsaan7&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=C9D1D9" />
+| Project | Description | Tech | Live Demo | Repo |
+|---|---|---|---|---|
+| [Project Name](https://[LIVE_URL]) | A short, impactful description of what it does and the problem it solves. | Next.js, TypeScript, MongoDB, Tailwind | [Live](https://[LIVE_URL]) | [GitHub](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO]) |
+| [Project Name](https://[LIVE_URL]) | Focus on a key feature, like authentication, scalability, or API design. | MERN, JWT, REST API | [Live](https://[LIVE_URL]) | [GitHub](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO]) |
+| [Project Name](https://[LIVE_URL]) | Highlight results or performance improvements if applicable. | React, Node.js, Express | [Live](https://[LIVE_URL]) | [GitHub](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO]) |
 
-<br/>
+---
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" />
+## GitHub Activity
 
-<br/><br/>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0D1117&color=00C7B7&line=05A081&point=FFFFFF&area=true&hide_border=true)
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=radical&no-frame=true&no-bg=true&column=7&title_color=00C7B7" width="90%" />
+*This contribution graph is served directly by GitHub's readme-activity-graph and is far more reliable than a custom snake animation.* 
 
-</div>
-
-<br/>
-
-## 📈 Contribution Pulse
+---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihsaan7&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&area_color=00C7B7" width="95%" />
-
-<!-- Snake animation (requires the GitHub Action — see setup note) -->
-<img src="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://2025-oct-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
-
-<br/>
-
-**💬 Open to collaborations, freelance work & interesting projects!**
-
-<br/>
-
-<!-- Random dev quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
-
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:0D1117&height=120&section=footer" width="100%"/>
-
+Let's build something impactful together!
 </div>
