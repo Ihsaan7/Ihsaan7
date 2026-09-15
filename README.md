@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ihsaan%20Ur%20Rehman&fontAlign=50&fontAlignY=38&color=0:0D1117,40:00C7B7,100:0D1117&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Clean%20Architecture&descAlign=50&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ihsaan%20Ullah%&fontAlign=50&fontAlignY=38&color=0:0D1117,40:00C7B7,100:0D1117&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Clean%20Architecture&descAlign=50&descAlignY=58" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Web+Apps;Backend+Architecture+%E2%80%A2+REST+APIs+%E2%80%A2+Modern+UI;First%2C+solve+the+problem.+Then%2C+write+the+code.)](https://git.io/typing-svg)
 
