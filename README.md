@@ -15,32 +15,29 @@
 <!-- ░░ HERO ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C7B7,100:1E90FF&height=170&section=header&text=IHSAAN%20ULLAH&fontSize=58&fontColor=00C7B7&fontAlignY=42&desc=Full-Stack%20Engineer%20·%20MERN%20·%20Next.js&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=700&color=00C7B7&center=true&vCenter=true&width=620&height=40&lines=Scalable+backends+with+Node.js+%26+Express;Sleek%2C+accessible+UIs+with+React+%26+Next.js;Auth+flows%2C+REST+design%2C+clean+data+models;Shipping+production+MERN%2C+not+tutorials" alt="What I do" />
-
-<br/>
-
-<a href="https://2025-oct-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117&color=00C7B7" alt="Portfolio"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=maildotru&logoColor=00C7B7&labelColor=0D1117" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C7B7&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-<img src="https://img.shields.io/badge/ISLAMABAD,%20PK-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00C7B7&labelColor=0D1117" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=Ihsaan7&color=00C7B7&style=for-the-badge&label=VIEWS" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00C7B7,100:0D1117&height=2" width="100%"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;BACKEND+ENGINEER+%26+Full+Stack+Developer;Final-Year+SE+Student" alt="Typing SVG" />
 </div>
 
-<br/>
 
-<img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7" height="22"/> **PROFILE**
 
-I build full-stack products end to end — API layer, auth, data modelling, and the interface on top of it.
-Most of my time goes to **backend architecture** and making the boring parts (validation, sessions, error handling) actually correct.
+<!-- ░░ PROFILE ░░ -->
+<div style="background:#0D1117; padding:36px 40px; border-radius:18px; color:#E6EDF3; margin:28px 0; border:1px solid #30363D; max-width:820px; margin-left:auto; margin-right:auto;">
+  <div style="text-align:center; margin-bottom:20px;">
+    <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7" height="26" style="vertical-align:middle;"/> 
+    <strong style="color:#00C7B7; font-size:100px; font-weight:1000; margin-left:10px;">PROFILE</strong>
+  </div>
+  
+  <div style="font-size:17.5px; line-height:1.65; text-align:justify; color:#C9D1D9;">
+    I build full-stack products end to end — <strong>API layer, auth, data modelling, and the interface on top of it</strong>.<br/><br/>
+    Most of my time goes to <strong>backend architecture</strong> and making the boring parts (validation, sessions, error handling) actually correct.
+  </div>
+  
+  <div style="margin-top:28px; font-size:17px; line-height:1.65; color:#C9D1D9;">
+    <strong style="color:#E6EDF3;">I am a Software Engineering student in Islamabad and a full-stack developer.</strong><br/>
+    I love working with vibrant, user-centric interfaces and scalable backend architectures. When I'm not building applications or working at NADRA, I'm likely following Real Madrid, working out, or exploring game development.
+  </div>
+</div>
 
 ```ts
 const ihsaan = {
@@ -99,57 +96,45 @@ const ihsaan = {
 <div align="center">
 
 <!-- STATS_HOST: swap github-readme-stats.vercel.app for your own deployment -->
-<img height="165" src="[https://github-readme-stats.vercel.app/api](https://ihsaan7.vercel.app/)?username=Ihsaan7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E&ring_color=00C7B7" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Ihsaan7&hide_border=true&background=0D1117&stroke=1F2937&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="Contribution streak"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ihsaan7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 <br/>
-
-<img height="165" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/top-langs/?username=Ihsaan7&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&text_color=8B949E" alt="Top languages"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ihsaan7&theme=github_dark&utcOffset=5" alt="Commit hours"/>
-
+<div align="center">
+  <img src="https://github-readme-stats-nine-blue-64.vercel.app/api?username=Ihsaan7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-nine-blue-64.vercel.app/api/top-langs/?username=Ihsaan7&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </div>
 
-<br/>
-
-<img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=github&logoColor=00C7B7" height="22"/> **ACTIVITY**
-
+### 🐍 Contribution Activity
 <div align="center">
-
-<!-- Generated by .github/workflows/snake.yml — runs on a schedule -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake.svg" width="100%" alt="Contribution snake"/>
-</picture>
-
-<br/>
-
-<img src="[https://github-readme-activity-graph.vercel.app](https://ihsaan7.vercel.app/)/graph?username=Ihsaan7&hide_border=true&hide_title=true&area=true&radius=8&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area_color=00C7B7" width="100%" alt="Contribution graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="Trophies"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ihsaan7/Ihsaan7/output/snake.svg" width="100%">
+  </picture>
 </div>
 
+
+<!-- ░░ PINNED REPOS ░░ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=github-readme-stats&logoColor=00C7B7" height="26"/> 
+  <strong style="color:#00C7B7; font-size:20px; font-weight:700;">PINNED REPOS</strong>
+</div>
 <br/>
 
-<img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=bookstack&logoColor=00C7B7" height="22"/> **SELECTED WORK**
-
 <div align="center">
-
-<!-- Replace repo= values with your 4 strongest repositories -->
-<a href="https://github.com/Ihsaan7/REPO_ONE">
-  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_ONE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
-</a>
-<a href="https://github.com/Ihsaan7/REPO_TWO">
-  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_TWO&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
-</a>
-<a href="https://github.com/Ihsaan7/REPO_THREE">
-  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_THREE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
-</a>
-<a href="https://github.com/Ihsaan7/REPO_FOUR">
-  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_FOUR&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
-</a>
-
+  <a href="https://github.com/Ihsaan7/NExt-MovieApp">
+    <img width="49%" src="https://github-readme-stats-nine-blue-64.vercel.app/api/pin/?username=Ihsaan7&repo=NExt-MovieApp&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E" alt="NExt-MovieApp"/>
+  </a>
+  <a href="https://github.com/Ihsaan7/Mini_Ecomm-w-Backend-">
+    <img width="49%" src="https://github-readme-stats-nine-blue-64.vercel.app/api/pin/?username=Ihsaan7&repo=Mini_Ecomm-w-Backend-&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E" alt="Mini Ecomm Backend"/>
+  </a>
+  <a href="https://github.com/Ihsaan7/DEV_TUBE-Frontend">
+    <img width="49%" src="https://github-readme-stats-nine-blue-64.vercel.app/api/pin/?username=Ihsaan7&repo=DEV_TUBE-Frontend&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E" alt="DEV TUBE Frontend"/>
+  </a>
+  <a href="https://github.com/Ihsaan7/AnimeBom">
+    <img width="49%" src="https://github-readme-stats-nine-blue-64.vercel.app/api/pin/?username=Ihsaan7&repo=AnimeBom&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E" alt="AnimeBom"/>
+  </a>
 </div>
 
 <br/>
