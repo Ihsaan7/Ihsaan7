@@ -36,16 +36,18 @@
 
 <br/>
 
-```ts
+<!--
+```js
 const ihsaan = {
-  role:     "Full-Stack Developer",
-  stack:    ["Node.js", "Express", "MongoDB", "React", "Next.js"],
-  focus:    ["API design", "Auth & security", "UI systems"],
-  building: "Production-grade MERN applications",
-  learning: ["System design", "Testing", "TypeScript at scale"],
-  principle:"First solve the problem. Then write the code.",
+  role:      "Full-Stack Developer",
+  stack:     ["Node.js", "Express", "MongoDB", "React", "Next.js"],
+  focus:     ["API design", "Auth & security", "UI systems"],
+  building:  "Production-grade MERN applications",
+  learning:  ["System design", "Testing", "TypeScript at scale"],
+  principle: "First solve the problem. Then write the code.",
 } as const;
 ```
+-->
 
 <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=stackblitz&logoColor=00C7B7" height="22"/> **STACK**
 
