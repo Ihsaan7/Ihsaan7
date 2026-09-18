@@ -99,12 +99,12 @@ const ihsaan = {
 <div align="center">
 
 <!-- STATS_HOST: swap github-readme-stats.vercel.app for your own deployment -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ihsaan7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E&ring_color=00C7B7" alt="GitHub stats"/>
+<img height="165" src="[https://github-readme-stats.vercel.app/api](https://ihsaan7.vercel.app/)?username=Ihsaan7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E&ring_color=00C7B7" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com?user=Ihsaan7&hide_border=true&background=0D1117&stroke=1F2937&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="Contribution streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsaan7&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&text_color=8B949E" alt="Top languages"/>
+<img height="165" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/top-langs/?username=Ihsaan7&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=00C7B7&text_color=8B949E" alt="Top languages"/>
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ihsaan7&theme=github_dark&utcOffset=5" alt="Commit hours"/>
 
 </div>
@@ -124,7 +124,7 @@ const ihsaan = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihsaan7&hide_border=true&hide_title=true&area=true&radius=8&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area_color=00C7B7" width="100%" alt="Contribution graph"/>
+<img src="[https://github-readme-activity-graph.vercel.app](https://ihsaan7.vercel.app/)/graph?username=Ihsaan7&hide_border=true&hide_title=true&area=true&radius=8&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area_color=00C7B7" width="100%" alt="Contribution graph"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ihsaan7&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" alt="Trophies"/>
 
@@ -138,16 +138,16 @@ const ihsaan = {
 
 <!-- Replace repo= values with your 4 strongest repositories -->
 <a href="https://github.com/Ihsaan7/REPO_ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ihsaan7&repo=REPO_ONE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
+  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_ONE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
 </a>
 <a href="https://github.com/Ihsaan7/REPO_TWO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ihsaan7&repo=REPO_TWO&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
+  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_TWO&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
 </a>
 <a href="https://github.com/Ihsaan7/REPO_THREE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ihsaan7&repo=REPO_THREE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
+  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_THREE&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
 </a>
 <a href="https://github.com/Ihsaan7/REPO_FOUR">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ihsaan7&repo=REPO_FOUR&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
+  <img width="49%" src="[https://github-readme-stats.vercel.app](https://ihsaan7.vercel.app/)/api/pin/?username=Ihsaan7&repo=REPO_FOUR&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=8B949E"/>
 </a>
 
 </div>
