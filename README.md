@@ -20,24 +20,21 @@
 </div>
 
 
-
 <!-- ░░ PROFILE ░░ -->
-<div style="background:#0D1117; padding:36px 40px; border-radius:18px; color:#E6EDF3; margin:28px 0; border:1px solid #30363D; max-width:820px; margin-left:auto; margin-right:auto;">
-  <div style="text-align:center; margin-bottom:20px;">
-    <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7" height="26" style="vertical-align:middle;"/> 
-    <strong style="color:#00C7B7; font-size:100px; font-weight:1000; margin-left:10px;">PROFILE</strong>
-  </div>
-  
-  <div style="font-size:17.5px; line-height:1.65; text-align:justify; color:#C9D1D9;">
-    I build full-stack products end to end — <strong>API layer, auth, data modelling, and the interface on top of it</strong>.<br/><br/>
-    Most of my time goes to <strong>backend architecture</strong> and making the boring parts (validation, sessions, error handling) actually correct.
-  </div>
-  
-  <div style="margin-top:28px; font-size:17px; line-height:1.65; color:#C9D1D9;">
-    <strong style="color:#E6EDF3;">I am a Software Engineering student in Islamabad and a full-stack developer.</strong><br/>
-    I love working with vibrant, user-centric interfaces and scalable backend architectures. When I'm not building applications or working at NADRA, I'm likely following Real Madrid, working out, or exploring game development.
-  </div>
+<div align="center">
+  <img src="[https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7](https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7)" height="26"/> 
+  <strong style="color:#00C7B7; font-size:20px; font-weight:700;">PROFILE</strong>
 </div>
+
+<br/>
+
+<div align="left">
+  I am a Software Engineering student in Islamabad and a full-stack developer. I build products end-to-end — handling the <strong>API layer, auth, data modeling, and the vibrant interfaces on top.</strong>
+  <br/><br/>
+  Most of my time goes into <strong>backend architecture</strong> and making the boring parts (validation, sessions, error handling) actually correct. When I'm not building scalable applications or working at NADRA, I'm likely following Real Madrid, working out, or exploring game development.
+</div>
+
+<br/>
 
 ```ts
 const ihsaan = {
@@ -49,8 +46,6 @@ const ihsaan = {
   principle:"First solve the problem. Then write the code.",
 } as const;
 ```
-
-<br/>
 
 <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=stackblitz&logoColor=00C7B7" height="22"/> **STACK**
 
