@@ -13,25 +13,25 @@
 <div align="center">
 
 <!-- ░░ HERO ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C7B7,100:1E90FF&height=170&section=header&text=IHSAAN%20ULLAH&fontSize=58&fontColor=00C7B7&fontAlignY=42&desc=Full-Stack%20Engineer%20·%20MERN%20·%20Next.js&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C7B7,100:1E90FF&height=170&section=header&text=IHSAAN%20ULLAH&fontSize=58&fontColor=00C7B7&fontAlignY=42&desc=Software%20Engineer%20·%20Backend%20Architecture%20·%20MERN&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;BACKEND+ENGINEER+%26+Full+Stack+Developer;Final-Year+SE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Full-Stack+Developer;Final-Year+SE+Student" alt="Typing SVG" />
 </div>
 
 
 <!-- ░░ PROFILE ░░ -->
 <div align="center">
-  <img src="[https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7](https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7)" height="26"/> 
+  <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=readme&logoColor=00C7B7" height="26"/> 
   <strong style="color:#00C7B7; font-size:20px; font-weight:700;">PROFILE</strong>
 </div>
 
 <br/>
 
 <div align="left">
-  I am a Software Engineering student in Islamabad and a full-stack developer. I build products end-to-end — handling the <strong>API layer, auth, data modeling, and the vibrant interfaces on top.</strong>
+  I am a Software Engineering student in Islamabad specializing in <strong>backend architecture</strong> and full-stack development. I build scalable products end-to-end — handling secure API layers, complex data modeling, CI/CD pipelines, and the vibrant interfaces on top.
   <br/><br/>
-  Most of my time goes into <strong>backend architecture</strong> and making the boring parts (validation, sessions, error handling) actually correct. When I'm not building scalable applications or working at NADRA, I'm likely following Real Madrid, working out, or exploring game development.
+  Most of my time goes into designing robust server-side systems and making the boring parts (validation, RBAC, error handling) actually correct. When I'm not containerizing applications or writing algorithms, I'm likely following Real Madrid, working out, or exploring competitive gaming.
 </div>
 
 <br/>
@@ -39,54 +39,62 @@
 <!--
 ```js
 const ihsaan = {
-  role:      "Full-Stack Developer",
-  stack:     ["Node.js", "Express", "MongoDB", "React", "Next.js"],
-  focus:     ["API design", "Auth & security", "UI systems"],
-  building:  "Production-grade MERN applications",
-  learning:  ["System design", "Testing", "TypeScript at scale"],
+  role:      "Backend Software Engineer",
+  stack:     ["Node.js", "Express", "NestJS", "MongoDB", "PostgreSQL", "React"],
+  focus:     ["API Architecture", "Auth & Security", "CI/CD & DevOps"],
+  building:  "Production-grade enterprise applications",
+  learning:  ["Advanced NestJS", "Relational Database Design"],
   principle: "First solve the problem. Then write the code.",
 } as const;
-```
--->
+--->
+# 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=stackblitz&logoColor=00C7B7" height="22"/> **STACK**
+<div align="center">
+  <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=stackblitz&logoColor=00C7B7" height="22"/>
+</div>
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark&perline=4" height="48"/>
-
-`JWT` · `Bcrypt` · `Mongoose`
-`express-validator` · `REST`
-
+  <h3>🖥️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=typescript,nestjs&theme=dark" height="48"/><br/>
+  <small><strong>NestJS</strong> • <strong>TypeScript</strong></small><br/>
+  <small>Express • Mongoose • PostgreSQL • SQLite</small><br/>
+  <small>JWT • Bcrypt • Cloudinary • REST</small>
 </td>
 <td width="33%" valign="top" align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,css&theme=dark&perline=6" height="48"/>
-
-`App Router` · `SSR/ISR`
-`GSAP` · `EJS` · `Responsive`
-
+  <h3>💻 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,gsap&theme=dark" height="48"/><br/>
+  <small><strong>React</strong> • <strong>Next.js</strong> • <strong>Tailwind CSS</strong></small><br/>
+  <small>GSAP • Sass • Responsive • Polypane</small>
 </td>
 <td width="33%" valign="top" align="center">
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,figma&theme=dark&perline=6" height="48"/>
-
-`CI/CD` · `Vercel` · `Atlas`
-`Postman` · `Bash`
-
+  <h3>⚙️ DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,figma&theme=dark" height="48"/><br/>
+  <small><strong>Vercel</strong> • <strong>Github Actions</strong> • <strong>Docker</strong></small><br/>
+  <small>Postman • Bash • Sentry • WSL2</small>
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## Additional Skills
+
+**Backend Engineering (Primary Focus)**  
+• NestJS (Clean Architecture) • TypeScript Strict Mode • PostgreSQL + SQLite  
+• MongoDB (NoSQL) • JWT + RBAC • Cloudinary Asset Management
+
+**Frontend**  
+• React / Next.js (App Router + SSR/ISR) • Tailwind CSS + GSAP Animations  
+• HTML5 + CSS3/Sass + Polypane Auditing
+
+**DevOps & Deployment**  
+• GitHub Actions CI/CD • Vercel Serverless • Docker + WSL2 • Sentry Monitoring
+
+**Cybersecurity**  
+• JWT Authentication • RBAC Implementation • SYN Flood Detection (ML/Random Forest)  
+• Google IT Support Professional • Cyber Security Foundation Certificate
 
 <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logo=githubactions&logoColor=00C7B7" height="22"/> **METRICS**
 
